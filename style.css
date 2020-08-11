@@ -1,0 +1,22 @@
+.h6 {color: #1B2631 ; text-align: center; font-family: Colonna MT;
+ font-size: 30px; margin-bottom: 40px;}
+.h5 {color: white;  text-align: center; font-size: 60px;
+margin-top: 100px; font-family: Colonna MT}
+body {background-color: #99A3A4}
+
+  .h2 { margin-top: px; font-size: 30px;
+   font-family: Arial Black;}
+  .details {width: 540px; height: 580px; color: black; margin-left: 200px;}
+  .img1 {height: 500px; float: right; width: 450px; margin-top: 25px;}
+  .head { font-size: 30px; font-family: Arial Black; margin-top: 40px;}
+  .he { font-size: 30px; font-family: Arial Black; margin-top: 20px;}
+  .fa {margin-left: 10px; margin-top: 20px;}
+  a {text-decoration: none;}
+  .h {margin-left: 80px; color: black; font-size: 40px; margin-bottom: 40px;
+  font-family: nunito }
+  .h1 {margin-left: 200px; color: black; font-family: nunito; 
+  	font-size: 40px; margin-top: none;}
+  	.h3 {margin-left: 380px; font-family: nunito; font-size: 40px; color: black;}
+    .h4 {margin-left: 130px; font-family: nunito; font-size: 40px; color: black;}
+    .bold {font-family: cooper; font-size: 25px;}
+    .footer {text-align: center; font-family: Colonna MT; font-size: 70px;}
